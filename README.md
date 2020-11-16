@@ -1,5 +1,5 @@
 # Javascript-Random-Password-Generator
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 <div>
     <h4>
     </a>
@@ -43,6 +43,15 @@ This is a password generator application.</p>
 
 ## Usage:
 ### This application generates a random password based on the user-selected criteria. This application will run in the browser with a clean and polished user interface. This application is responsive, allowing it to adapt to multiple screen sizes, including mobile. An HTML validation service was used to ensure the page has valid HTML.
+
+## Technologies:
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>Bootstrap</li>
+<li>Github</li>
+</ul>
 
 ## License:
 ### [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
